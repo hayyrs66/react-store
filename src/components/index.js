@@ -1,6 +1,6 @@
 import Hero from "./Hero";
 import Header from "./Header";
-import FetchApi from "./fetchApi";
+//import FetchApi from "./fetchApi";
 import Brand from "./Brand";
 import HotCategory from "./HotCategory";
 import Products from "./Products";
@@ -17,7 +17,7 @@ import CardOptions from "./CardOptions";
 export { 
     Hero,
     Header,
-    FetchApi,
+    //FetchApi,
     Brand,
     HotCategory,
     Products,
